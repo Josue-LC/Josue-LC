@@ -1,22 +1,24 @@
 <h1 align="center">Hi! My name is Josué Loredo 👋</h1>
 
 <div align="center">
-  <img width="300rem" src="https://sociedadtecnologiaydeontologia.wordpress.com/wp-content/uploads/2019/01/logotipo_ipn.png">
-  <img width="300rem" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/EscudoESCOM.png">
+  <img src="banner-josue.png">
 </div>
 
-<p>I graduated from the Escuela Superior de Cómputo (ESCOM), university of Instituto Politécnico Nacional.</p>
-<!--
-**Josue-LC/Josue-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+<h2>About me</h2>
+<p>I am passionate about learning about frontend technologies and creating creative and functional solutions to different problems.</p>
+<h4>Technologies:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,mysql,php,python" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<ul>
+  <li>💻 I'm currently working on personal projects with React, TypeScript and JavaScript. </li>
+  <li>📖 I'm currently learning more about frontend techlogies and a few about backend. </li>
+</ul>
