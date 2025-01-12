@@ -1,5 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi! My name is Josué Loredo 👋</h1>
 
+<div align="center">
+  <img width="300rem" src="https://sociedadtecnologiaydeontologia.wordpress.com/wp-content/uploads/2019/01/logotipo_ipn.png">
+  <img width="300rem" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/EscudoESCOM.png">
+</div>
+
+<p>I graduated from the Escuela Superior de Cómputo (ESCOM), university of Instituto Politécnico Nacional.</p>
 <!--
 **Josue-LC/Josue-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
